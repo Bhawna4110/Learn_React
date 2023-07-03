@@ -1,0 +1,17 @@
+{
+  "name": "learn_react",
+  "version": "1.0.0",
+  "description": "Learning React JS from zero",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Bhawna sharma",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
